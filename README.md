@@ -29,3 +29,9 @@ password :1234<br/>
 
 id : Arsyad Basofil Amri<br/>
 password : SSS<br/>
+
+
+# Screenshoot Hasil Program
+
+# Tugas 1 Membuat Function Gaji
+
