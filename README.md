@@ -34,4 +34,11 @@ password : SSS<br/>
 # Screenshoot Hasil Program
 
 # Tugas 1 Membuat Function Gaji
+![image](https://user-images.githubusercontent.com/33723389/103155620-0952eb00-47d4-11eb-9ed4-6a33155885ea.png)
+![image](https://user-images.githubusercontent.com/33723389/103155630-21c30580-47d4-11eb-9ce8-cb109ba32bb4.png)
+![image](https://user-images.githubusercontent.com/33723389/103155643-3d2e1080-47d4-11eb-84c4-2cdc76e6e937.png)
+![image](https://user-images.githubusercontent.com/33723389/103155656-53d46780-47d4-11eb-97e8-750ed4a59295.png)
+![image](https://user-images.githubusercontent.com/33723389/103155658-5a62df00-47d4-11eb-8903-27be94074b96.png)
+
+
 
