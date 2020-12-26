@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Hitung Gaji</title>
+</head>
+<body>
+    <script>
+        HitungGaji =()=> {
+        
+        var Nama = prompt("Insert Nama Karyawan :");
+        var JumlahGaji = prompt("Insert Jumlah Gaji Pokok:");
+        var BanyakBulan = prompt("Insert Lama Kerja 1-12 bln:");
+        var Tunjangan = prompt("Apakah Karyawan Dapat tunjagan? true/false:");
+        
+        JumlahTunjangan=500000;
+        bpjs=0.03;
+        pajak=0.05;
+
+
+        JumlahBPJS=JumlahGaji*bpjs;
+        
+        JumlahPajak=JumlahGaji*pajak;
+
+        GajiBersihNonTunjangan=JumlahGaji*1-JumlahPajak-JumlahTunjangan;
+        
+        GajiBersihTunjangan=JumlahGaji*1+JumlahTunjangan-JumlahBPJS-JumlahPajak;
+       
+        if(Tunjangan ==="true"){
+                document.write("<p>===================================================================");
+                document.write(" <p>Nama karyawan  :"+Nama);
+                document.write(" <p>GajiPokok :" +"Rp."+ JumlahGaji);
+                document.write(" <p>Tunjangan :" +"Rp."+JumlahTunjangan);
+                document.write(" <p>BPJS :"+"Rp."+JumlahBPJS);
+                document.write(" <p>Pajak :" +"Rp."+JumlahPajak);
+                document.write("<p>===================================================================");
+                document.write(" <p>Gaji Bersih :" +"Rp."+GajiBersihTunjangan+"/Bulan");
+                document.write("<p>===================================================================");
+                document.write(" <p>Total Gaji :" +"Rp."+GajiBersihTunjangan*BanyakBulan+"/Bulan");
+
+            } else if (Tunjangan ==="false") {
+                document.write("<p>===================================================================");
+                document.write(" <p>Nama karyawan:" +Nama);
+                document.write(" <p>GajiPokok :"+"Rp."+ JumlahGaji);
+                document.write(" <p>Tunjangan :"+"Rp.-");
+                document.write(" <p>BPJS :"+"Rp."+JumlahBPJS);
+                document.write(" <p>Pajak :"+"Rp."+JumlahPajak);
+                document.write("<p>===================================================================");
+                document.write(" <p>Gaji Bersih :"+"Rp."+GajiBersihNonTunjangan+"/Bulan");
+                document.write("<p>===================================================================");
+                document.write(" <p>Total Gaji :"+"Rp."+GajiBersihNonTunjangan*BanyakBulan+"/Bulan");
+            } else {
+                document.write(" <p>Masukan Data Yang Dibutuhkan  ");
+            }
+        }
+
+
+        HitungGaji();
+    </script>
+</body>
+</html>
