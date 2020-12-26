@@ -49,3 +49,19 @@ password : SSS<br/>
 ![image](https://user-images.githubusercontent.com/33723389/103155820-934f8380-47d5-11eb-92ae-46b914f524d5.png)
 ![image](https://user-images.githubusercontent.com/33723389/103155823-977ba100-47d5-11eb-8df0-efe53a1c9898.png)
 
+# Tugas 4 Membuat database dan crud sederhana dengan halaman login
+#  
+# Halaman Login /index
+![image](https://user-images.githubusercontent.com/33723389/103155874-048f3680-47d6-11eb-977b-99fa7c939294.png)
+# Saat Login Berhasil
+![image](https://user-images.githubusercontent.com/33723389/103155879-0eb13500-47d6-11eb-8eb1-cef9dac7b2ba.png)
+# Tampilan Home
+![image](https://user-images.githubusercontent.com/33723389/103155911-402a0080-47d6-11eb-96aa-2e23ef430bf2.png)
+# Tampilan Tambah Content/Post
+![image](https://user-images.githubusercontent.com/33723389/103155921-55069400-47d6-11eb-9e3d-028eaf52b162.png)
+# Tampilan Tambah User
+![image](https://user-images.githubusercontent.com/33723389/103155926-62238300-47d6-11eb-9b0f-487e3a2b3979.png)
+# Tampilan Edit Content/Post
+![image](https://user-images.githubusercontent.com/33723389/103155928-710a3580-47d6-11eb-974d-b166c35caf30.png)
+
+
