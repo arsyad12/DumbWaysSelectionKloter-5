@@ -40,5 +40,12 @@ password : SSS<br/>
 ![image](https://user-images.githubusercontent.com/33723389/103155656-53d46780-47d4-11eb-97e8-750ed4a59295.png)
 ![image](https://user-images.githubusercontent.com/33723389/103155658-5a62df00-47d4-11eb-8903-27be94074b96.png)
 
+# Tugas 2 Membuat Function Array 2 Dimensi
+![image](https://user-images.githubusercontent.com/33723389/103155761-3522a080-47d5-11eb-881f-8cad51b6ac2a.png)
+![image](https://user-images.githubusercontent.com/33723389/103155768-423f8f80-47d5-11eb-9c26-669a13ac019d.png)
+![image](https://user-images.githubusercontent.com/33723389/103155781-52f00580-47d5-11eb-9a6c-82daec544c1a.png)
 
+# Tugas 3 Membuat Function Looping Star / Cetak Pola
+![image](https://user-images.githubusercontent.com/33723389/103155820-934f8380-47d5-11eb-92ae-46b914f524d5.png)
+![image](https://user-images.githubusercontent.com/33723389/103155823-977ba100-47d5-11eb-8df0-efe53a1c9898.png)
 
